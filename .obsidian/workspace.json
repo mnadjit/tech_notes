@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "937c9c185e0891be",
+        "id": "6d1a48b043fec596",
         "type": "tabs",
         "children": [
           {
-            "id": "3b30aec6ea706d8d",
+            "id": "c33f9f5f9aa78fac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,43 @@
             }
           },
           {
-            "id": "f8dece5028216f9a",
+            "id": "9cc7113658578aaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Reverse Engineering/Assess Unknown File.md",
+                "file": "PicoCTF/Reverse Engineering/Debugging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "604036dbb7ccc54a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Reverse Engineering/Transformation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cac2af06259cdf12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Reverse Engineering/Shop.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Reverse Engineering/Assess Unknown File.md",
+                "file": "PicoCTF/Reverse Engineering/Shop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Reverse Engineering/Assess Unknown File.md",
+                "file": "PicoCTF/Reverse Engineering/Shop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Reverse Engineering/Assess Unknown File.md"
+                "file": "PicoCTF/Reverse Engineering/Shop.md"
               }
             }
           }
@@ -159,15 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8dece5028216f9a",
+  "active": "cac2af06259cdf12",
   "lastOpenFiles": [
     "PicoCTF/Reverse Engineering/Transformation.md",
     "PicoCTF/Reverse Engineering/ARM Assembly.md",
+    "git/git common commands.md",
+    "PicoCTF/Reverse Engineering/Debugging.md",
+    "network/troubleshooting/netstat.md",
+    "network/troubleshooting/interfaces.md",
     "PicoCTF/Reverse Engineering/G-Code.md",
-    "PicoCTF/Cryptography/ROT13.md",
-    "PicoCTF/Cryptography/RSA.md",
-    "PicoCTF/Forensics/Image Forensics.md",
+    "PicoCTF/Reverse Engineering/Assess Unknown File.md",
     "PicoCTF/General Skills/socket.md",
-    "network/troubleshooting/netstat.md"
+    "PicoCTF/Cryptography/ROT13.md"
   ]
 }
