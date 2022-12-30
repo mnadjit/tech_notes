@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Reverse Engineering/Shop.md",
+                "file": "PicoCTF/Reverse Engineering/Debugging.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Reverse Engineering/Shop.md",
+                "file": "PicoCTF/Reverse Engineering/Debugging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Reverse Engineering/Shop.md",
+                "file": "PicoCTF/Reverse Engineering/Debugging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Reverse Engineering/Shop.md"
+                "file": "PicoCTF/Reverse Engineering/Debugging.md"
               }
             }
           }
@@ -185,6 +185,7 @@
   },
   "active": "cac2af06259cdf12",
   "lastOpenFiles": [
+    "PicoCTF/Reverse Engineering/Shop.md",
     "PicoCTF/Reverse Engineering/Transformation.md",
     "PicoCTF/Reverse Engineering/ARM Assembly.md",
     "git/git common commands.md",
@@ -193,7 +194,6 @@
     "network/troubleshooting/interfaces.md",
     "PicoCTF/Reverse Engineering/G-Code.md",
     "PicoCTF/Reverse Engineering/Assess Unknown File.md",
-    "PicoCTF/General Skills/socket.md",
-    "PicoCTF/Cryptography/ROT13.md"
+    "PicoCTF/General Skills/socket.md"
   ]
 }

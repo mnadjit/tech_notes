@@ -1,4 +1,5 @@
 # gdb
+[cheatsheet](https://cs.brown.edu/courses/cs033/docs/guides/gdb.pdf)
 ## Common Commands
 ### breakpoints
 > get breakpoints: `i[nfo] b[reakpoint]`
