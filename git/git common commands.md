@@ -15,4 +15,6 @@ git clean -xdf # remove x(ignored) d(directories) f(files) from repo
 git stash
 git pull
 git stash pop
+
+git rm -r --cached $file_or_dir # to ignore a file or directory after git has already been initiated
 ```
