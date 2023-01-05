@@ -14,8 +14,44 @@
               "type": "markdown",
               "state": {
                 "file": "PowerShell/Admin.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "79b5617396fff580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7895a88c21327f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Binary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57ddadcaa13c1643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Binary.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -31,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PowerShell/Admin.md",
+                "file": "Python/Binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PowerShell/Admin.md",
+                "file": "Python/Binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PowerShell/Admin.md"
+                "file": "Python/Binary.md"
               }
             }
           }
@@ -158,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe833ae732eea7e4",
+  "active": "57ddadcaa13c1643",
   "lastOpenFiles": [
-    "PowerShell/PowerShell Profile.md",
+    "Python/Files.md",
     "PowerShell/Admin.md",
-    "CTF/Reverse Engineering/ARM Assembly.md",
     "CTF/Binary Exploitation/pwninit.md",
+    "Python/Binary.md",
+    "Python/pwntools.md",
+    "PowerShell/PowerShell Profile.md",
+    "CTF/Reverse Engineering/ARM Assembly.md",
     "CTF/Reverse Engineering/Debugging.md",
     "CTF/Reverse Engineering/Shop.md",
-    "CTF/Reverse Engineering/Transformation.md",
-    "git/git common commands.md",
-    "network/troubleshooting/netstat.md",
-    "network/troubleshooting/interfaces.md"
+    "CTF/Reverse Engineering/Transformation.md"
   ]
 }
