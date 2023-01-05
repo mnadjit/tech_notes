@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6d1a48b043fec596",
+        "id": "54b3fe05cb2e3eae",
         "type": "tabs",
         "children": [
           {
-            "id": "c33f9f5f9aa78fac",
+            "id": "fe833ae732eea7e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Reverse Engineering/Transformation.md",
+                "file": "PicoCTF/Reverse Engineering/ARM Assembly.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9cc7113658578aaf",
+            "id": "067c7ada9bb83c7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Reverse Engineering/Debugging.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "604036dbb7ccc54a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Reverse Engineering/Transformation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cac2af06259cdf12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PowerShell/Admin.md",
+                "file": "PowerShell/PowerShell Profile.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PowerShell/Admin.md",
+                "file": "PowerShell/PowerShell Profile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PowerShell/Admin.md",
+                "file": "PowerShell/PowerShell Profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PowerShell/Admin.md"
+                "file": "PowerShell/PowerShell Profile.md"
               }
             }
           }
@@ -183,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cac2af06259cdf12",
+  "active": "067c7ada9bb83c7a",
   "lastOpenFiles": [
+    "PowerShell/Admin.md",
+    "PowerShell/PowerShell Profile.md",
+    "PicoCTF/Reverse Engineering/ARM Assembly.md",
     "PicoCTF/Reverse Engineering/Debugging.md",
     "PicoCTF/Reverse Engineering/Shop.md",
     "PicoCTF/Reverse Engineering/Transformation.md",
-    "PicoCTF/Reverse Engineering/ARM Assembly.md",
     "git/git common commands.md",
     "network/troubleshooting/netstat.md",
     "network/troubleshooting/interfaces.md",
-    "PicoCTF/Reverse Engineering/G-Code.md",
-    "PicoCTF/Reverse Engineering/Assess Unknown File.md",
-    "PicoCTF/General Skills/socket.md"
+    "PicoCTF/Reverse Engineering/G-Code.md"
   ]
 }
