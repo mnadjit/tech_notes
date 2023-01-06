@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Files.md",
+                "file": "Dev/Python/Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Numbers.md",
+                "file": "Dev/Python/Numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "eaa882f14204f36f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/C_C++/Compilers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0d51a2957fef5fa6",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git common commands.md",
+                "file": "Dev/C_C++/Compilers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git common commands.md",
+                "file": "Dev/C_C++/Compilers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git common commands.md"
+                "file": "Dev/C_C++/Compilers.md"
               }
             }
           }
@@ -195,17 +207,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57ddadcaa13c1643",
+  "active": "eaa882f14204f36f",
   "lastOpenFiles": [
-    "Python/Numbers.md",
-    "Python/Files.md",
-    "Python/pwntools.md",
+    "git/git common commands.md",
+    "Dev/Python/Numbers.md",
+    "Dev/Python/Files.md",
+    "Dev/Python/pwntools.md",
     "PowerShell/Admin.md",
     "CTF/Binary Exploitation/pwninit.md",
     "PowerShell/PowerShell Profile.md",
     "CTF/Reverse Engineering/ARM Assembly.md",
     "CTF/Reverse Engineering/Debugging.md",
-    "CTF/Reverse Engineering/Shop.md",
-    "CTF/Reverse Engineering/Transformation.md"
+    "CTF/Reverse Engineering/Shop.md"
   ]
 }
