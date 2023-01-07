@@ -18,7 +18,7 @@ func main() {
 ```
 
 ```go
-# number to ascii
+// number to ascii
 fmt.Println(fmt.Sprintf("%x", 51966)) // out: 'cafe'
 fmt.Println(fmt.Sprintf("%08b", 41)) // out: '00101001'
 ```
