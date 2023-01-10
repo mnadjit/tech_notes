@@ -1,3 +1,4 @@
+> Cheat Sheet: https://www.netwrix.com/cisco_commands_cheat_sheet.html
 # Check out current config
 ```
 switch> sh[ow] running-config
