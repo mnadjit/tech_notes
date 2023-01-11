@@ -1,7 +1,7 @@
 > Cheat Sheet: https://www.netwrix.com/cisco_commands_cheat_sheet.html
 # Check out current config
 ```
-switch> sh[ow] running-config
+switch> sh[ow] running-config  ;   Not sure if this works
 switch> sh version
 switch> sh interface
 switch> sh ip interface
