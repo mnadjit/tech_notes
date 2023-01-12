@@ -10,6 +10,10 @@ Get-Command -Name '*name*'
 ```
 
 ```PowerShell
+where.exe $executable_file_path
+```
+
+```PowerShell
 # Find which process has a lock on a directory or file
 Get-WmiObject Win32_Process | ? {$_.commandLine -like "*file_dir_name*"}
 ```
