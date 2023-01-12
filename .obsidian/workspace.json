@@ -161,15 +161,15 @@
   },
   "active": "3460db4205d1282e",
   "lastOpenFiles": [
-    "Cyber Security/Binary Exploitation/GDB.md",
     "Cyber Security/Binary Exploitation/pwninit.md",
+    "Cyber Security/Binary Exploitation/General.md",
+    "Cyber Security/Binary Exploitation/GDB.md",
     "Dev/C_C++/Compilers.md",
     "PowerShell/Admin.md",
     "Network/cisco/switch.md",
     "Dev/Go/Numbers.md",
     "Dev/Python/Numbers.md",
     "Dev/Python/Files.md",
-    "Dev/Go/Installation.md",
-    "Dev/Rust/Installation.md"
+    "Dev/Go/Installation.md"
   ]
 }
