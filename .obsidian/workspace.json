@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df8ba93a42991e33",
+            "id": "4608fef0af147576",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Binary Exploitation/GDB.md",
+                "file": "Database/Oracle.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3460db4205d1282e",
+            "id": "22c626e745f3fe99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Binary Exploitation/General.md",
+                "file": "PowerShell/Cryptography.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Binary Exploitation/General.md",
+                "file": "PowerShell/Cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Binary Exploitation/General.md",
+                "file": "PowerShell/Cryptography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Binary Exploitation/General.md"
+                "file": "PowerShell/Cryptography.md"
               }
             }
           }
@@ -159,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3460db4205d1282e",
+  "active": "22c626e745f3fe99",
   "lastOpenFiles": [
-    "Cyber Security/Binary Exploitation/pwninit.md",
-    "Cyber Security/Binary Exploitation/General.md",
-    "Cyber Security/Binary Exploitation/GDB.md",
-    "Dev/C_C++/Compilers.md",
-    "PowerShell/Admin.md",
-    "Network/cisco/switch.md",
-    "Dev/Go/Numbers.md",
-    "Dev/Python/Numbers.md",
-    "Dev/Python/Files.md",
-    "Dev/Go/Installation.md"
+    "Database/Oracle.md",
+    "Database/REDIS.md",
+    "Admin/Linux/Fedora Fresh Config.md",
+    "Admin/Linux/Update-Alternatives.md",
+    "Admin/Linux/Locale.md",
+    "Admin/Linux/DateTime.md",
+    "Admin/Linux/Multimedia.md",
+    "Admin/Linux/Packaging Managers (Universal).md",
+    "Admin/Linux/Package Management.md",
+    "Admin/Linux/Firewall.md"
   ]
 }
